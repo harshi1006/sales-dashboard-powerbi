@@ -1,0 +1,501 @@
+order_id,date,month,month_name,quarter,region,city,category,product,salesperson,quantity,unit_price,discount_pct,revenue,profit
+ORD1001,2024-03-23,3,Mar,Q1,West,Mumbai,Furniture,Wardrobe,Karan,7,22000,5,146300.0,24069.41
+ORD1002,2024-06-02,6,Jun,Q2,Central,Indore,Furniture,Wardrobe,Priya,8,22000,15,149600.0,29240.25
+ORD1003,2024-11-27,11,Nov,Q4,Central,Bhopal,Groceries,Dal,Pooja,9,180,0,1620.0,404.94
+ORD1004,2024-03-05,3,Mar,Q1,West,Surat,Furniture,Bed,Nikhil,4,18000,0,72000.0,21735.81
+ORD1005,2024-09-26,9,Sep,Q3,Central,Bhopal,Clothing,Kurta,Amit,2,1299,5,2468.1,430.48
+ORD1006,2024-01-04,1,Jan,Q1,West,Surat,Groceries,Spices,Karan,8,90,10,648.0,126.72
+ORD1007,2024-12-02,12,Dec,Q4,West,Pune,Clothing,Kurta,Pooja,2,1299,5,2468.1,614.03
+ORD1008,2024-02-15,2,Feb,Q1,West,Pune,Groceries,Rice,Pooja,8,120,20,768.0,274.32
+ORD1009,2024-01-25,1,Jan,Q1,South,Chennai,Groceries,Spices,Sneha,9,90,20,648.0,257.08
+ORD1010,2024-03-01,3,Mar,Q1,North,Chandigarh,Furniture,Sofa,Amit,8,25000,10,180000.0,54268.2
+ORD1011,2024-08-12,8,Aug,Q3,South,Hyderabad,Clothing,T-Shirt,Sneha,7,799,0,5593.0,1301.63
+ORD1012,2024-05-15,5,May,Q2,Central,Raipur,Groceries,Oil,Ravi,1,250,10,225.0,73.87
+ORD1013,2024-12-13,12,Dec,Q4,North,Delhi,Clothing,Saree,Amit,10,2999,5,28490.5,5710.35
+ORD1014,2024-11-04,11,Nov,Q4,North,Chandigarh,Sports,Yoga Mat,Pooja,5,800,20,3200.0,1234.28
+ORD1015,2024-06-28,6,Jun,Q2,East,Patna,Groceries,Dal,Priya,9,180,20,1296.0,454.79
+ORD1016,2024-01-25,1,Jan,Q1,West,Surat,Furniture,Table,Nikhil,9,8999,0,80991.0,25262.92
+ORD1017,2024-09-05,9,Sep,Q3,North,Chandigarh,Sports,Cricket Bat,Ravi,7,2500,10,15750.0,5088.97
+ORD1018,2024-10-20,10,Oct,Q4,South,Kochi,Furniture,Chair,Sneha,1,4999,0,4999.0,1058.38
+ORD1019,2024-11-17,11,Nov,Q4,South,Hyderabad,Electronics,Smart TV,Amit,8,45000,0,360000.0,141895.35
+ORD1020,2024-05-12,5,May,Q2,West,Pune,Sports,Cricket Bat,Amit,3,2500,5,7125.0,1866.36
+ORD1021,2024-04-02,4,Apr,Q2,West,Ahmedabad,Furniture,Sofa,Amit,6,25000,20,120000.0,37005.89
+ORD1022,2024-03-20,3,Mar,Q1,East,Patna,Electronics,Laptop,Sneha,6,60000,20,288000.0,66669.04
+ORD1023,2024-07-20,7,Jul,Q3,West,Ahmedabad,Clothing,Saree,Nikhil,3,2999,15,7647.45,2945.27
+ORD1024,2024-02-23,2,Feb,Q1,South,Kochi,Electronics,Tablet,Sneha,9,35000,0,315000.0,89889.03
+ORD1025,2024-12-17,12,Dec,Q4,South,Hyderabad,Groceries,Dal,Divya,9,180,15,1377.0,289.81
+ORD1026,2024-03-19,3,Mar,Q1,West,Mumbai,Sports,Badminton Kit,Nikhil,9,1800,0,16200.0,5370.12
+ORD1027,2024-06-08,6,Jun,Q2,East,Guwahati,Electronics,Headphones,Ravi,1,5000,15,4250.0,1281.83
+ORD1028,2024-02-22,2,Feb,Q1,East,Guwahati,Electronics,Tablet,Amit,2,35000,5,66500.0,17430.05
+ORD1029,2024-04-24,4,Apr,Q2,Central,Bhopal,Groceries,Rice,Sneha,1,120,20,96.0,29.99
+ORD1030,2024-03-22,3,Mar,Q1,East,Kolkata,Electronics,Headphones,Ravi,3,5000,20,12000.0,4518.3
+ORD1031,2024-12-16,12,Dec,Q4,East,Bhubaneswar,Sports,Cricket Bat,Sneha,1,2500,20,2000.0,440.39
+ORD1032,2024-12-09,12,Dec,Q4,East,Guwahati,Electronics,Laptop,Sneha,5,60000,10,270000.0,104832.35
+ORD1033,2024-05-23,5,May,Q2,Central,Bhopal,Sports,Badminton Kit,Sneha,1,1800,15,1530.0,332.19
+ORD1034,2024-03-08,3,Mar,Q1,East,Guwahati,Clothing,T-Shirt,Priya,6,799,5,4554.3,763.32
+ORD1035,2024-01-08,1,Jan,Q1,South,Kochi,Clothing,Saree,Priya,2,2999,5,5698.1,1847.63
+ORD1036,2024-02-25,2,Feb,Q1,East,Bhubaneswar,Sports,Football,Nikhil,10,1200,10,10800.0,3271.09
+ORD1037,2024-08-14,8,Aug,Q3,West,Pune,Electronics,Headphones,Karan,4,5000,0,20000.0,6978.96
+ORD1038,2024-09-26,9,Sep,Q3,West,Ahmedabad,Groceries,Dal,Priya,7,180,10,1134.0,323.94
+ORD1039,2024-10-06,10,Oct,Q4,Central,Nagpur,Clothing,Jeans,Pooja,1,1499,15,1274.15,287.72
+ORD1040,2024-12-12,12,Dec,Q4,East,Guwahati,Sports,Cricket Bat,Divya,5,2500,15,10625.0,3248.3
+ORD1041,2024-02-28,2,Feb,Q1,West,Pune,Sports,Yoga Mat,Pooja,3,800,15,2040.0,670.44
+ORD1042,2024-05-26,5,May,Q2,East,Kolkata,Furniture,Bed,Priya,7,18000,5,119700.0,46762.25
+ORD1043,2024-02-22,2,Feb,Q1,North,Chandigarh,Sports,Cricket Bat,Priya,10,2500,0,25000.0,8216.22
+ORD1044,2024-07-03,7,Jul,Q3,Central,Bhopal,Electronics,Smart TV,Nikhil,5,45000,20,180000.0,38147.89
+ORD1045,2024-04-05,4,Apr,Q2,East,Kolkata,Electronics,Smart TV,Pooja,5,45000,0,225000.0,60422.28
+ORD1046,2024-10-22,10,Oct,Q4,South,Bangalore,Sports,Yoga Mat,Amit,5,800,5,3800.0,1173.34
+ORD1047,2024-08-05,8,Aug,Q3,South,Kochi,Clothing,Jeans,Ravi,10,1499,0,14990.0,4811.65
+ORD1048,2024-02-03,2,Feb,Q1,South,Chennai,Groceries,Oil,Sneha,8,250,15,1700.0,528.4
+ORD1049,2024-01-08,1,Jan,Q1,North,Delhi,Furniture,Sofa,Karan,3,25000,0,75000.0,28225.32
+ORD1050,2024-03-18,3,Mar,Q1,West,Mumbai,Sports,Yoga Mat,Nikhil,2,800,20,1280.0,410.56
+ORD1051,2024-03-09,3,Mar,Q1,North,Jaipur,Sports,Football,Priya,10,1200,5,11400.0,3123.71
+ORD1052,2024-09-21,9,Sep,Q3,South,Chennai,Clothing,Jacket,Ravi,8,2499,15,16993.2,6659.55
+ORD1053,2024-03-16,3,Mar,Q1,West,Pune,Sports,Cricket Bat,Divya,3,2500,0,7500.0,1364.42
+ORD1054,2024-07-25,7,Jul,Q3,North,Lucknow,Sports,Yoga Mat,Amit,7,800,20,4480.0,938.82
+ORD1055,2024-04-12,4,Apr,Q2,North,Delhi,Groceries,Rice,Pooja,3,120,0,360.0,140.27
+ORD1056,2024-10-15,10,Oct,Q4,East,Guwahati,Electronics,Headphones,Pooja,4,5000,10,18000.0,3074.78
+ORD1057,2024-05-23,5,May,Q2,Central,Raipur,Groceries,Rice,Sneha,5,120,15,510.0,176.12
+ORD1058,2024-03-23,3,Mar,Q1,Central,Bhopal,Clothing,Jeans,Nikhil,10,1499,20,11992.0,3435.46
+ORD1059,2024-01-06,1,Jan,Q1,East,Bhubaneswar,Groceries,Rice,Priya,10,120,15,1020.0,174.45
+ORD1060,2024-05-05,5,May,Q2,Central,Indore,Clothing,T-Shirt,Priya,10,799,5,7590.5,1581.15
+ORD1061,2024-04-04,4,Apr,Q2,Central,Bhopal,Groceries,Rice,Nikhil,7,120,0,840.0,205.01
+ORD1062,2024-07-03,7,Jul,Q3,East,Kolkata,Groceries,Oil,Priya,10,250,10,2250.0,480.2
+ORD1063,2024-09-07,9,Sep,Q3,South,Kochi,Clothing,Kurta,Sneha,8,1299,20,8313.6,2797.62
+ORD1064,2024-06-21,6,Jun,Q2,Central,Indore,Electronics,Headphones,Amit,9,5000,0,45000.0,17586.25
+ORD1065,2024-11-28,11,Nov,Q4,West,Mumbai,Sports,Cycles,Nikhil,5,12000,20,48000.0,8085.56
+ORD1066,2024-01-21,1,Jan,Q1,East,Patna,Groceries,Rice,Priya,9,120,0,1080.0,350.17
+ORD1067,2024-08-28,8,Aug,Q3,East,Guwahati,Electronics,Tablet,Sneha,10,35000,15,297500.0,69589.72
+ORD1068,2024-02-28,2,Feb,Q1,South,Kochi,Groceries,Dal,Divya,10,180,15,1530.0,259.23
+ORD1069,2024-04-13,4,Apr,Q2,North,Chandigarh,Furniture,Chair,Amit,1,4999,20,3999.2,1284.47
+ORD1070,2024-05-15,5,May,Q2,Central,Bhopal,Furniture,Wardrobe,Pooja,2,22000,10,39600.0,15039.85
+ORD1071,2024-06-01,6,Jun,Q2,South,Kochi,Clothing,Saree,Karan,5,2999,0,14995.0,4050.04
+ORD1072,2024-11-17,11,Nov,Q4,North,Lucknow,Sports,Football,Nikhil,9,1200,10,9720.0,3495.14
+ORD1073,2024-01-05,1,Jan,Q1,South,Chennai,Furniture,Chair,Karan,7,4999,15,29744.05,11895.52
+ORD1074,2024-03-17,3,Mar,Q1,East,Kolkata,Sports,Cycles,Karan,10,12000,5,114000.0,23970.92
+ORD1075,2024-01-08,1,Jan,Q1,North,Jaipur,Electronics,Tablet,Karan,4,35000,0,140000.0,42634.49
+ORD1076,2024-11-18,11,Nov,Q4,West,Ahmedabad,Clothing,Jeans,Priya,6,1499,10,8094.6,2938.71
+ORD1077,2024-05-14,5,May,Q2,West,Mumbai,Furniture,Chair,Amit,7,4999,20,27994.4,9126.73
+ORD1078,2024-02-15,2,Feb,Q1,East,Patna,Groceries,Dal,Pooja,2,180,5,342.0,88.7
+ORD1079,2024-03-17,3,Mar,Q1,South,Kochi,Electronics,Laptop,Divya,7,60000,5,399000.0,154564.68
+ORD1080,2024-02-06,2,Feb,Q1,West,Pune,Electronics,Mobile,Amit,4,25000,20,80000.0,21852.36
+ORD1081,2024-07-23,7,Jul,Q3,Central,Nagpur,Furniture,Sofa,Divya,3,25000,0,75000.0,22214.36
+ORD1082,2024-03-27,3,Mar,Q1,East,Bhubaneswar,Groceries,Spices,Divya,9,90,10,729.0,231.01
+ORD1083,2024-02-28,2,Feb,Q1,South,Chennai,Clothing,Saree,Ravi,5,2999,20,11996.0,2841.91
+ORD1084,2024-01-14,1,Jan,Q1,Central,Nagpur,Electronics,Smart TV,Amit,10,45000,5,427500.0,99404.39
+ORD1085,2024-01-26,1,Jan,Q1,East,Kolkata,Clothing,T-Shirt,Nikhil,9,799,10,6471.9,2375.67
+ORD1086,2024-12-23,12,Dec,Q4,North,Lucknow,Sports,Yoga Mat,Nikhil,8,800,5,6080.0,1719.52
+ORD1087,2024-07-14,7,Jul,Q3,South,Chennai,Clothing,Saree,Divya,3,2999,10,8097.3,2732.06
+ORD1088,2024-09-23,9,Sep,Q3,West,Mumbai,Clothing,Jeans,Pooja,3,1499,10,4047.3,988.84
+ORD1089,2024-12-25,12,Dec,Q4,South,Hyderabad,Electronics,Laptop,Nikhil,6,60000,5,342000.0,127440.08
+ORD1090,2024-02-15,2,Feb,Q1,West,Mumbai,Groceries,Dal,Ravi,9,180,20,1296.0,383.68
+ORD1091,2024-05-06,5,May,Q2,South,Hyderabad,Electronics,Headphones,Ravi,10,5000,0,50000.0,18745.59
+ORD1092,2024-01-21,1,Jan,Q1,South,Hyderabad,Furniture,Wardrobe,Pooja,5,22000,0,110000.0,19299.02
+ORD1093,2024-08-05,8,Aug,Q3,West,Pune,Furniture,Chair,Nikhil,3,4999,10,13497.3,5339.46
+ORD1094,2024-08-06,8,Aug,Q3,South,Kochi,Groceries,Oil,Sneha,6,250,0,1500.0,475.74
+ORD1095,2024-06-04,6,Jun,Q2,North,Jaipur,Furniture,Table,Ravi,5,8999,5,42745.25,10958.13
+ORD1096,2024-06-05,6,Jun,Q2,North,Chandigarh,Electronics,Headphones,Nikhil,1,5000,5,4750.0,1313.5
+ORD1097,2024-08-10,8,Aug,Q3,West,Mumbai,Furniture,Sofa,Amit,6,25000,5,142500.0,40918.99
+ORD1098,2024-01-05,1,Jan,Q1,South,Kochi,Clothing,Jacket,Divya,2,2499,15,4248.3,640.12
+ORD1099,2024-08-11,8,Aug,Q3,North,Lucknow,Furniture,Chair,Karan,2,4999,20,7998.4,3076.07
+ORD1100,2024-08-11,8,Aug,Q3,West,Ahmedabad,Furniture,Chair,Divya,6,4999,15,25494.9,8893.05
+ORD1101,2024-11-14,11,Nov,Q4,West,Pune,Furniture,Wardrobe,Karan,5,22000,10,99000.0,27795.87
+ORD1102,2024-06-01,6,Jun,Q2,West,Mumbai,Sports,Football,Amit,2,1200,10,2160.0,727.71
+ORD1103,2024-05-08,5,May,Q2,North,Delhi,Electronics,Laptop,Nikhil,7,60000,5,399000.0,82695.28
+ORD1104,2024-01-20,1,Jan,Q1,East,Bhubaneswar,Furniture,Sofa,Divya,10,25000,15,212500.0,71265.11
+ORD1105,2024-07-01,7,Jul,Q3,East,Guwahati,Sports,Cricket Bat,Amit,5,2500,10,11250.0,1781.81
+ORD1106,2024-04-13,4,Apr,Q2,South,Bangalore,Sports,Badminton Kit,Priya,1,1800,20,1440.0,261.9
+ORD1107,2024-02-27,2,Feb,Q1,Central,Indore,Sports,Cycles,Nikhil,4,12000,15,40800.0,12659.71
+ORD1108,2024-11-10,11,Nov,Q4,East,Guwahati,Groceries,Dal,Ravi,5,180,15,765.0,180.26
+ORD1109,2024-09-01,9,Sep,Q3,South,Bangalore,Furniture,Bed,Priya,8,18000,5,136800.0,21139.37
+ORD1110,2024-08-05,8,Aug,Q3,West,Ahmedabad,Groceries,Spices,Sneha,4,90,20,288.0,94.12
+ORD1111,2024-08-09,8,Aug,Q3,South,Chennai,Groceries,Dal,Amit,6,180,10,972.0,370.71
+ORD1112,2024-01-22,1,Jan,Q1,North,Jaipur,Sports,Cycles,Priya,4,12000,0,48000.0,13426.06
+ORD1113,2024-09-21,9,Sep,Q3,Central,Raipur,Electronics,Smart TV,Amit,10,45000,15,382500.0,115105.87
+ORD1114,2024-07-18,7,Jul,Q3,East,Patna,Groceries,Rice,Priya,6,120,5,684.0,184.82
+ORD1115,2024-07-20,7,Jul,Q3,East,Kolkata,Furniture,Sofa,Sneha,3,25000,0,75000.0,19104.85
+ORD1116,2024-02-21,2,Feb,Q1,North,Delhi,Sports,Badminton Kit,Pooja,10,1800,15,15300.0,4265.54
+ORD1117,2024-08-17,8,Aug,Q3,North,Chandigarh,Electronics,Laptop,Sneha,6,60000,15,306000.0,68819.09
+ORD1118,2024-01-13,1,Jan,Q1,Central,Nagpur,Furniture,Sofa,Divya,3,25000,20,60000.0,14665.89
+ORD1119,2024-06-28,6,Jun,Q2,East,Bhubaneswar,Electronics,Tablet,Nikhil,2,35000,5,66500.0,17973.09
+ORD1120,2024-10-10,10,Oct,Q4,East,Patna,Groceries,Rice,Divya,7,120,10,756.0,283.01
+ORD1121,2024-08-01,8,Aug,Q3,South,Kochi,Electronics,Headphones,Divya,2,5000,20,8000.0,2303.45
+ORD1122,2024-05-03,5,May,Q2,East,Guwahati,Furniture,Wardrobe,Divya,6,22000,0,132000.0,49086.2
+ORD1123,2024-04-20,4,Apr,Q2,West,Ahmedabad,Clothing,Saree,Divya,8,2999,10,21592.8,6845.38
+ORD1124,2024-03-16,3,Mar,Q1,Central,Nagpur,Clothing,Jeans,Nikhil,1,1499,20,1199.2,234.27
+ORD1125,2024-04-11,4,Apr,Q2,West,Mumbai,Groceries,Dal,Priya,1,180,20,144.0,30.94
+ORD1126,2024-02-21,2,Feb,Q1,South,Hyderabad,Groceries,Spices,Karan,5,90,0,450.0,100.63
+ORD1127,2024-07-17,7,Jul,Q3,West,Pune,Groceries,Rice,Priya,8,120,10,864.0,234.31
+ORD1128,2024-06-22,6,Jun,Q2,North,Jaipur,Electronics,Mobile,Karan,9,25000,0,225000.0,80714.83
+ORD1129,2024-11-06,11,Nov,Q4,West,Pune,Clothing,Jacket,Karan,2,2499,20,3998.4,1513.69
+ORD1130,2024-05-25,5,May,Q2,Central,Nagpur,Groceries,Rice,Pooja,2,120,0,240.0,65.85
+ORD1131,2024-09-06,9,Sep,Q3,West,Ahmedabad,Sports,Football,Pooja,5,1200,10,5400.0,1798.45
+ORD1132,2024-01-26,1,Jan,Q1,South,Kochi,Sports,Cricket Bat,Karan,7,2500,5,16625.0,4174.46
+ORD1133,2024-05-04,5,May,Q2,South,Bangalore,Clothing,Kurta,Pooja,1,1299,10,1169.1,400.7
+ORD1134,2024-11-07,11,Nov,Q4,Central,Bhopal,Furniture,Sofa,Divya,4,25000,0,100000.0,30260.12
+ORD1135,2024-03-03,3,Mar,Q1,South,Hyderabad,Sports,Cricket Bat,Priya,4,2500,15,8500.0,3063.25
+ORD1136,2024-10-02,10,Oct,Q4,North,Jaipur,Furniture,Wardrobe,Ravi,2,22000,0,44000.0,7772.58
+ORD1137,2024-09-07,9,Sep,Q3,North,Chandigarh,Electronics,Laptop,Amit,8,60000,5,456000.0,77056.41
+ORD1138,2024-12-19,12,Dec,Q4,South,Chennai,Groceries,Spices,Ravi,6,90,5,513.0,117.3
+ORD1139,2024-07-17,7,Jul,Q3,East,Patna,Electronics,Smart TV,Amit,10,45000,0,450000.0,88327.45
+ORD1140,2024-02-25,2,Feb,Q1,East,Guwahati,Sports,Cricket Bat,Nikhil,5,2500,0,12500.0,3895.83
+ORD1141,2024-07-26,7,Jul,Q3,East,Bhubaneswar,Electronics,Smart TV,Priya,10,45000,0,450000.0,131393.84
+ORD1142,2024-11-23,11,Nov,Q4,South,Hyderabad,Sports,Cricket Bat,Ravi,8,2500,5,19000.0,6627.87
+ORD1143,2024-08-03,8,Aug,Q3,West,Ahmedabad,Furniture,Table,Ravi,10,8999,0,89990.0,26112.34
+ORD1144,2024-07-23,7,Jul,Q3,Central,Nagpur,Furniture,Wardrobe,Ravi,8,22000,5,167200.0,27811.9
+ORD1145,2024-10-12,10,Oct,Q4,North,Chandigarh,Sports,Cricket Bat,Karan,2,2500,0,5000.0,1041.2
+ORD1146,2024-11-07,11,Nov,Q4,East,Bhubaneswar,Clothing,Saree,Nikhil,2,2999,10,5398.2,822.53
+ORD1147,2024-09-16,9,Sep,Q3,Central,Nagpur,Electronics,Smart TV,Pooja,5,45000,15,191250.0,70460.19
+ORD1148,2024-03-13,3,Mar,Q1,North,Jaipur,Electronics,Headphones,Karan,1,5000,0,5000.0,1193.28
+ORD1149,2024-09-15,9,Sep,Q3,South,Kochi,Clothing,Jacket,Amit,1,2499,20,1999.2,491.97
+ORD1150,2024-12-06,12,Dec,Q4,West,Surat,Furniture,Table,Karan,5,8999,10,40495.5,16019.32
+ORD1151,2024-04-27,4,Apr,Q2,East,Bhubaneswar,Sports,Football,Amit,7,1200,15,7140.0,1787.82
+ORD1152,2024-02-25,2,Feb,Q1,Central,Raipur,Sports,Badminton Kit,Karan,10,1800,10,16200.0,3322.97
+ORD1153,2024-09-03,9,Sep,Q3,North,Jaipur,Furniture,Wardrobe,Karan,6,22000,0,132000.0,39510.04
+ORD1154,2024-01-24,1,Jan,Q1,North,Delhi,Furniture,Table,Ravi,2,8999,5,17098.1,6400.83
+ORD1155,2024-04-14,4,Apr,Q2,East,Bhubaneswar,Sports,Cycles,Nikhil,9,12000,0,108000.0,39423.42
+ORD1156,2024-09-02,9,Sep,Q3,East,Kolkata,Furniture,Sofa,Sneha,9,25000,10,202500.0,74020.21
+ORD1157,2024-06-08,6,Jun,Q2,North,Lucknow,Electronics,Smart TV,Ravi,2,45000,15,76500.0,24780.54
+ORD1158,2024-01-18,1,Jan,Q1,South,Bangalore,Sports,Yoga Mat,Divya,5,800,20,3200.0,876.12
+ORD1159,2024-08-27,8,Aug,Q3,Central,Raipur,Clothing,Saree,Divya,8,2999,5,22792.4,8344.83
+ORD1160,2024-11-13,11,Nov,Q4,North,Jaipur,Furniture,Bed,Amit,9,18000,20,129600.0,42038.08
+ORD1161,2024-10-25,10,Oct,Q4,South,Kochi,Furniture,Bed,Nikhil,5,18000,10,81000.0,12742.26
+ORD1162,2024-04-02,4,Apr,Q2,South,Bangalore,Furniture,Wardrobe,Pooja,7,22000,5,146300.0,52380.31
+ORD1163,2024-01-08,1,Jan,Q1,Central,Indore,Clothing,Jacket,Pooja,1,2499,0,2499.0,537.16
+ORD1164,2024-07-10,7,Jul,Q3,West,Surat,Sports,Badminton Kit,Divya,6,1800,10,9720.0,2508.35
+ORD1165,2024-06-04,6,Jun,Q2,South,Hyderabad,Groceries,Spices,Nikhil,5,90,20,360.0,69.64
+ORD1166,2024-06-17,6,Jun,Q2,West,Pune,Groceries,Oil,Divya,1,250,15,212.5,62.8
+ORD1167,2024-12-04,12,Dec,Q4,North,Jaipur,Clothing,Saree,Priya,2,2999,20,4798.4,1496.59
+ORD1168,2024-11-26,11,Nov,Q4,West,Mumbai,Groceries,Flour,Ravi,1,60,10,54.0,8.11
+ORD1169,2024-09-07,9,Sep,Q3,South,Bangalore,Clothing,Jacket,Sneha,1,2499,10,2249.1,633.7
+ORD1170,2024-06-11,6,Jun,Q2,Central,Bhopal,Furniture,Bed,Divya,2,18000,15,30600.0,6680.44
+ORD1171,2024-11-20,11,Nov,Q4,North,Jaipur,Groceries,Spices,Karan,5,90,20,360.0,89.78
+ORD1172,2024-06-15,6,Jun,Q2,North,Delhi,Furniture,Sofa,Amit,10,25000,15,212500.0,71497.59
+ORD1173,2024-11-08,11,Nov,Q4,East,Guwahati,Electronics,Laptop,Divya,2,60000,15,102000.0,19360.77
+ORD1174,2024-07-03,7,Jul,Q3,North,Delhi,Sports,Cycles,Divya,2,12000,15,20400.0,7123.67
+ORD1175,2024-07-17,7,Jul,Q3,West,Mumbai,Groceries,Dal,Ravi,4,180,0,720.0,217.32
+ORD1176,2024-05-02,5,May,Q2,West,Surat,Electronics,Laptop,Sneha,6,60000,20,288000.0,100624.26
+ORD1177,2024-02-14,2,Feb,Q1,East,Guwahati,Sports,Cricket Bat,Divya,5,2500,5,11875.0,4674.89
+ORD1178,2024-08-11,8,Aug,Q3,East,Kolkata,Electronics,Laptop,Sneha,6,60000,0,360000.0,97245.63
+ORD1179,2024-04-01,4,Apr,Q2,North,Delhi,Groceries,Rice,Pooja,6,120,15,612.0,177.43
+ORD1180,2024-01-13,1,Jan,Q1,South,Kochi,Electronics,Mobile,Amit,1,25000,0,25000.0,4241.12
+ORD1181,2024-07-12,7,Jul,Q3,South,Bangalore,Clothing,Jeans,Priya,2,1499,5,2848.1,501.67
+ORD1182,2024-07-09,7,Jul,Q3,East,Kolkata,Furniture,Sofa,Pooja,9,25000,0,225000.0,73634.65
+ORD1183,2024-04-16,4,Apr,Q2,South,Kochi,Groceries,Oil,Nikhil,7,250,10,1575.0,451.86
+ORD1184,2024-10-14,10,Oct,Q4,South,Bangalore,Clothing,Saree,Nikhil,9,2999,15,22942.35,3909.55
+ORD1185,2024-03-23,3,Mar,Q1,West,Ahmedabad,Groceries,Flour,Amit,3,60,5,171.0,45.75
+ORD1186,2024-02-06,2,Feb,Q1,Central,Indore,Sports,Cycles,Nikhil,3,12000,15,30600.0,10091.89
+ORD1187,2024-03-22,3,Mar,Q1,Central,Indore,Electronics,Tablet,Ravi,10,35000,10,315000.0,49663.88
+ORD1188,2024-08-20,8,Aug,Q3,North,Lucknow,Groceries,Rice,Pooja,5,120,5,570.0,175.1
+ORD1189,2024-03-09,3,Mar,Q1,West,Surat,Groceries,Spices,Divya,2,90,0,180.0,46.74
+ORD1190,2024-06-07,6,Jun,Q2,Central,Nagpur,Groceries,Dal,Nikhil,2,180,15,306.0,67.08
+ORD1191,2024-01-03,1,Jan,Q1,East,Bhubaneswar,Sports,Yoga Mat,Ravi,2,800,20,1280.0,440.32
+ORD1192,2024-05-06,5,May,Q2,West,Surat,Clothing,Kurta,Pooja,2,1299,20,2078.4,567.55
+ORD1193,2024-11-25,11,Nov,Q4,West,Mumbai,Electronics,Headphones,Priya,7,5000,0,35000.0,13732.36
+ORD1194,2024-08-04,8,Aug,Q3,South,Hyderabad,Sports,Cycles,Nikhil,1,12000,15,10200.0,4003.04
+ORD1195,2024-09-01,9,Sep,Q3,East,Bhubaneswar,Furniture,Table,Karan,10,8999,15,76491.5,20068.19
+ORD1196,2024-12-25,12,Dec,Q4,East,Guwahati,Electronics,Laptop,Divya,6,60000,15,306000.0,92223.67
+ORD1197,2024-08-28,8,Aug,Q3,Central,Indore,Sports,Cricket Bat,Amit,8,2500,15,17000.0,6222.92
+ORD1198,2024-05-20,5,May,Q2,West,Ahmedabad,Sports,Yoga Mat,Priya,2,800,0,1600.0,260.68
+ORD1199,2024-01-19,1,Jan,Q1,North,Lucknow,Furniture,Wardrobe,Karan,5,22000,0,110000.0,17643.25
+ORD1200,2024-02-25,2,Feb,Q1,South,Kochi,Sports,Football,Divya,2,1200,0,2400.0,708.07
+ORD1201,2024-10-28,10,Oct,Q4,East,Bhubaneswar,Groceries,Spices,Nikhil,4,90,5,342.0,108.88
+ORD1202,2024-06-15,6,Jun,Q2,South,Chennai,Electronics,Smart TV,Divya,6,45000,20,216000.0,69801.8
+ORD1203,2024-08-15,8,Aug,Q3,South,Hyderabad,Clothing,Jeans,Priya,1,1499,5,1424.05,416.75
+ORD1204,2024-05-16,5,May,Q2,West,Ahmedabad,Electronics,Headphones,Amit,1,5000,10,4500.0,1407.64
+ORD1205,2024-01-09,1,Jan,Q1,South,Bangalore,Groceries,Dal,Priya,6,180,0,1080.0,430.2
+ORD1206,2024-04-02,4,Apr,Q2,Central,Bhopal,Sports,Cycles,Nikhil,9,12000,10,97200.0,24400.61
+ORD1207,2024-11-01,11,Nov,Q4,West,Pune,Furniture,Table,Priya,9,8999,10,72891.9,13124.35
+ORD1208,2024-03-28,3,Mar,Q1,North,Delhi,Electronics,Headphones,Priya,7,5000,20,28000.0,8039.5
+ORD1209,2024-11-03,11,Nov,Q4,North,Delhi,Electronics,Tablet,Sneha,6,35000,5,199500.0,38326.16
+ORD1210,2024-06-28,6,Jun,Q2,South,Bangalore,Electronics,Tablet,Karan,10,35000,5,332500.0,52006.5
+ORD1211,2024-04-15,4,Apr,Q2,South,Chennai,Groceries,Flour,Priya,5,60,15,255.0,63.39
+ORD1212,2024-07-16,7,Jul,Q3,South,Kochi,Furniture,Sofa,Karan,5,25000,10,112500.0,35085.23
+ORD1213,2024-05-13,5,May,Q2,West,Ahmedabad,Electronics,Headphones,Ravi,3,5000,15,12750.0,3033.3
+ORD1214,2024-11-15,11,Nov,Q4,South,Bangalore,Sports,Yoga Mat,Divya,5,800,15,3400.0,962.42
+ORD1215,2024-09-11,9,Sep,Q3,South,Kochi,Clothing,Jeans,Amit,4,1499,5,5696.2,1029.91
+ORD1216,2024-04-04,4,Apr,Q2,West,Pune,Sports,Cricket Bat,Priya,10,2500,15,21250.0,3649.89
+ORD1217,2024-06-28,6,Jun,Q2,North,Chandigarh,Sports,Football,Nikhil,7,1200,20,6720.0,1391.17
+ORD1218,2024-10-27,10,Oct,Q4,North,Lucknow,Clothing,Jeans,Amit,10,1499,0,14990.0,5173.52
+ORD1219,2024-09-18,9,Sep,Q3,South,Kochi,Furniture,Bed,Sneha,7,18000,5,119700.0,40897.18
+ORD1220,2024-12-02,12,Dec,Q4,South,Chennai,Clothing,Jacket,Nikhil,1,2499,10,2249.1,603.26
+ORD1221,2024-10-09,10,Oct,Q4,Central,Bhopal,Sports,Badminton Kit,Sneha,7,1800,10,11340.0,2809.22
+ORD1222,2024-02-03,2,Feb,Q1,Central,Bhopal,Electronics,Mobile,Divya,3,25000,20,60000.0,15640.75
+ORD1223,2024-03-04,3,Mar,Q1,Central,Raipur,Electronics,Laptop,Ravi,7,60000,15,357000.0,118197.24
+ORD1224,2024-04-03,4,Apr,Q2,South,Kochi,Sports,Yoga Mat,Divya,5,800,0,4000.0,1001.19
+ORD1225,2024-02-28,2,Feb,Q1,North,Lucknow,Electronics,Headphones,Karan,1,5000,15,4250.0,1487.88
+ORD1226,2024-10-03,10,Oct,Q4,East,Guwahati,Sports,Football,Ravi,6,1200,15,6120.0,1209.2
+ORD1227,2024-02-23,2,Feb,Q1,South,Hyderabad,Groceries,Dal,Pooja,1,180,10,162.0,43.14
+ORD1228,2024-09-23,9,Sep,Q3,West,Pune,Groceries,Flour,Karan,9,60,5,513.0,173.93
+ORD1229,2024-03-08,3,Mar,Q1,North,Chandigarh,Groceries,Spices,Ravi,7,90,15,535.5,83.01
+ORD1230,2024-06-22,6,Jun,Q2,West,Surat,Groceries,Rice,Amit,5,120,15,510.0,87.86
+ORD1231,2024-07-18,7,Jul,Q3,North,Delhi,Groceries,Spices,Priya,4,90,0,360.0,84.75
+ORD1232,2024-11-03,11,Nov,Q4,North,Delhi,Clothing,Saree,Amit,9,2999,0,26991.0,6727.38
+ORD1233,2024-05-20,5,May,Q2,South,Kochi,Clothing,Saree,Pooja,6,2999,15,15294.9,3091.52
+ORD1234,2024-06-03,6,Jun,Q2,North,Jaipur,Clothing,Jacket,Ravi,8,2499,5,18992.4,6600.0
+ORD1235,2024-02-03,2,Feb,Q1,West,Pune,Electronics,Smart TV,Ravi,2,45000,10,81000.0,19158.52
+ORD1236,2024-06-01,6,Jun,Q2,West,Pune,Clothing,T-Shirt,Priya,9,799,20,5752.8,2190.03
+ORD1237,2024-06-25,6,Jun,Q2,North,Jaipur,Sports,Yoga Mat,Ravi,3,800,0,2400.0,759.78
+ORD1238,2024-12-12,12,Dec,Q4,South,Kochi,Sports,Football,Sneha,9,1200,15,9180.0,3593.56
+ORD1239,2024-11-02,11,Nov,Q4,West,Mumbai,Groceries,Dal,Karan,6,180,20,864.0,270.04
+ORD1240,2024-09-02,9,Sep,Q3,East,Patna,Furniture,Wardrobe,Ravi,2,22000,5,41800.0,11334.09
+ORD1241,2024-09-28,9,Sep,Q3,South,Chennai,Electronics,Tablet,Amit,3,35000,20,84000.0,18968.78
+ORD1242,2024-05-07,5,May,Q2,East,Patna,Groceries,Rice,Sneha,4,120,0,480.0,98.5
+ORD1243,2024-05-20,5,May,Q2,Central,Indore,Groceries,Spices,Pooja,7,90,5,598.5,150.34
+ORD1244,2024-06-05,6,Jun,Q2,Central,Raipur,Furniture,Bed,Pooja,7,18000,20,100800.0,15397.99
+ORD1245,2024-10-23,10,Oct,Q4,South,Bangalore,Furniture,Wardrobe,Pooja,6,22000,20,105600.0,19459.7
+ORD1246,2024-05-21,5,May,Q2,Central,Bhopal,Sports,Cycles,Priya,2,12000,20,19200.0,6727.38
+ORD1247,2024-11-21,11,Nov,Q4,Central,Indore,Groceries,Rice,Ravi,1,120,15,102.0,36.83
+ORD1248,2024-09-20,9,Sep,Q3,Central,Nagpur,Groceries,Dal,Sneha,2,180,10,324.0,118.22
+ORD1249,2024-08-09,8,Aug,Q3,South,Chennai,Clothing,Jacket,Amit,9,2499,0,22491.0,8674.95
+ORD1250,2024-12-08,12,Dec,Q4,South,Kochi,Sports,Cricket Bat,Priya,2,2500,5,4750.0,1260.5
+ORD1251,2024-01-28,1,Jan,Q1,East,Patna,Clothing,Saree,Pooja,8,2999,0,23992.0,6301.62
+ORD1252,2024-08-13,8,Aug,Q3,Central,Raipur,Sports,Yoga Mat,Amit,7,800,20,4480.0,714.58
+ORD1253,2024-05-20,5,May,Q2,East,Kolkata,Sports,Badminton Kit,Divya,3,1800,0,5400.0,1805.64
+ORD1254,2024-12-19,12,Dec,Q4,South,Hyderabad,Groceries,Oil,Sneha,3,250,10,675.0,130.63
+ORD1255,2024-09-02,9,Sep,Q3,Central,Bhopal,Clothing,Kurta,Amit,8,1299,0,10392.0,3292.58
+ORD1256,2024-09-26,9,Sep,Q3,East,Kolkata,Groceries,Spices,Pooja,9,90,0,810.0,218.35
+ORD1257,2024-06-13,6,Jun,Q2,South,Bangalore,Sports,Yoga Mat,Sneha,8,800,5,6080.0,1797.28
+ORD1258,2024-07-09,7,Jul,Q3,West,Pune,Furniture,Table,Nikhil,1,8999,5,8549.05,2077.78
+ORD1259,2024-04-21,4,Apr,Q2,East,Bhubaneswar,Groceries,Dal,Amit,2,180,15,306.0,97.61
+ORD1260,2024-12-09,12,Dec,Q4,East,Bhubaneswar,Electronics,Smart TV,Ravi,10,45000,0,450000.0,128701.87
+ORD1261,2024-09-22,9,Sep,Q3,Central,Bhopal,Sports,Yoga Mat,Divya,6,800,10,4320.0,1230.72
+ORD1262,2024-02-15,2,Feb,Q1,Central,Nagpur,Clothing,Jacket,Karan,4,2499,10,8996.4,2487.17
+ORD1263,2024-06-19,6,Jun,Q2,West,Mumbai,Furniture,Wardrobe,Karan,1,22000,10,19800.0,3720.27
+ORD1264,2024-10-16,10,Oct,Q4,West,Ahmedabad,Electronics,Smart TV,Nikhil,8,45000,5,342000.0,120704.81
+ORD1265,2024-10-02,10,Oct,Q4,West,Mumbai,Furniture,Chair,Sneha,8,4999,10,35992.8,7234.87
+ORD1266,2024-09-20,9,Sep,Q3,South,Chennai,Furniture,Sofa,Priya,9,25000,20,180000.0,50587.16
+ORD1267,2024-05-25,5,May,Q2,South,Bangalore,Clothing,Kurta,Amit,9,1299,5,11106.45,3549.56
+ORD1268,2024-04-20,4,Apr,Q2,East,Patna,Furniture,Wardrobe,Priya,4,22000,20,70400.0,24295.04
+ORD1269,2024-10-06,10,Oct,Q4,East,Bhubaneswar,Sports,Cycles,Pooja,8,12000,20,76800.0,14724.19
+ORD1270,2024-03-24,3,Mar,Q1,West,Mumbai,Sports,Yoga Mat,Amit,7,800,15,4760.0,837.92
+ORD1271,2024-02-19,2,Feb,Q1,South,Hyderabad,Groceries,Spices,Divya,8,90,5,684.0,148.74
+ORD1272,2024-12-26,12,Dec,Q4,West,Ahmedabad,Electronics,Tablet,Pooja,8,35000,20,224000.0,73230.13
+ORD1273,2024-07-01,7,Jul,Q3,West,Surat,Furniture,Wardrobe,Sneha,7,22000,0,154000.0,26511.12
+ORD1274,2024-06-13,6,Jun,Q2,West,Mumbai,Furniture,Bed,Ravi,9,18000,15,137700.0,26627.05
+ORD1275,2024-10-16,10,Oct,Q4,West,Surat,Furniture,Bed,Ravi,7,18000,0,126000.0,25292.5
+ORD1276,2024-06-17,6,Jun,Q2,West,Mumbai,Clothing,Jeans,Ravi,1,1499,20,1199.2,458.58
+ORD1277,2024-05-05,5,May,Q2,East,Kolkata,Furniture,Table,Ravi,10,8999,10,80991.0,21885.91
+ORD1278,2024-07-07,7,Jul,Q3,Central,Nagpur,Sports,Yoga Mat,Pooja,10,800,15,6800.0,1863.98
+ORD1279,2024-12-28,12,Dec,Q4,North,Chandigarh,Electronics,Headphones,Pooja,9,5000,15,38250.0,9551.37
+ORD1280,2024-10-22,10,Oct,Q4,West,Surat,Electronics,Headphones,Karan,8,5000,15,34000.0,7324.5
+ORD1281,2024-09-13,9,Sep,Q3,East,Patna,Groceries,Dal,Divya,6,180,5,1026.0,222.68
+ORD1282,2024-11-25,11,Nov,Q4,North,Delhi,Groceries,Oil,Sneha,2,250,5,475.0,112.33
+ORD1283,2024-04-24,4,Apr,Q2,South,Chennai,Furniture,Table,Divya,8,8999,10,64792.8,18792.64
+ORD1284,2024-10-21,10,Oct,Q4,Central,Nagpur,Clothing,Kurta,Divya,9,1299,20,9352.8,2002.74
+ORD1285,2024-03-25,3,Mar,Q1,East,Patna,Clothing,Jacket,Divya,1,2499,10,2249.1,869.86
+ORD1286,2024-04-10,4,Apr,Q2,West,Mumbai,Sports,Cricket Bat,Amit,2,2500,20,4000.0,688.84
+ORD1287,2024-09-07,9,Sep,Q3,North,Delhi,Sports,Cycles,Priya,10,12000,10,108000.0,35311.55
+ORD1288,2024-02-22,2,Feb,Q1,North,Jaipur,Clothing,T-Shirt,Priya,5,799,20,3196.0,1158.53
+ORD1289,2024-08-15,8,Aug,Q3,South,Bangalore,Clothing,Saree,Karan,7,2999,15,17844.05,4962.89
+ORD1290,2024-07-21,7,Jul,Q3,West,Ahmedabad,Clothing,Saree,Divya,3,2999,0,8997.0,1720.02
+ORD1291,2024-12-14,12,Dec,Q4,West,Pune,Groceries,Flour,Nikhil,6,60,15,306.0,64.17
+ORD1292,2024-09-24,9,Sep,Q3,North,Chandigarh,Clothing,Kurta,Priya,1,1299,5,1234.05,328.24
+ORD1293,2024-07-25,7,Jul,Q3,West,Mumbai,Clothing,Kurta,Ravi,6,1299,15,6624.9,1651.89
+ORD1294,2024-10-08,10,Oct,Q4,East,Patna,Sports,Badminton Kit,Ravi,8,1800,15,12240.0,2714.64
+ORD1295,2024-08-18,8,Aug,Q3,West,Mumbai,Groceries,Flour,Karan,8,60,0,480.0,90.95
+ORD1296,2024-03-27,3,Mar,Q1,West,Pune,Groceries,Dal,Nikhil,3,180,20,432.0,94.71
+ORD1297,2024-06-14,6,Jun,Q2,North,Chandigarh,Electronics,Smart TV,Divya,5,45000,15,191250.0,32678.13
+ORD1298,2024-05-13,5,May,Q2,North,Chandigarh,Furniture,Chair,Nikhil,7,4999,20,27994.4,6459.79
+ORD1299,2024-03-01,3,Mar,Q1,West,Pune,Clothing,Saree,Nikhil,5,2999,0,14995.0,2359.33
+ORD1300,2024-06-18,6,Jun,Q2,West,Pune,Clothing,Jacket,Ravi,9,2499,15,19117.35,3396.91
+ORD1301,2024-08-02,8,Aug,Q3,West,Surat,Electronics,Tablet,Priya,9,35000,20,252000.0,89413.07
+ORD1302,2024-01-21,1,Jan,Q1,West,Surat,Clothing,Jacket,Sneha,8,2499,5,18992.4,4843.63
+ORD1303,2024-05-12,5,May,Q2,South,Chennai,Furniture,Table,Priya,9,8999,0,80991.0,21691.15
+ORD1304,2024-03-08,3,Mar,Q1,East,Patna,Electronics,Headphones,Karan,2,5000,5,9500.0,1434.07
+ORD1305,2024-04-26,4,Apr,Q2,North,Chandigarh,Groceries,Rice,Divya,7,120,10,756.0,210.29
+ORD1306,2024-12-17,12,Dec,Q4,Central,Raipur,Electronics,Smart TV,Karan,4,45000,15,153000.0,52251.98
+ORD1307,2024-11-23,11,Nov,Q4,East,Guwahati,Sports,Football,Ravi,1,1200,10,1080.0,207.65
+ORD1308,2024-11-20,11,Nov,Q4,South,Kochi,Groceries,Flour,Divya,3,60,10,162.0,25.03
+ORD1309,2024-10-19,10,Oct,Q4,South,Bangalore,Electronics,Tablet,Pooja,3,35000,10,94500.0,33190.92
+ORD1310,2024-12-19,12,Dec,Q4,West,Mumbai,Electronics,Tablet,Sneha,7,35000,0,245000.0,90206.17
+ORD1311,2024-08-20,8,Aug,Q3,Central,Bhopal,Groceries,Rice,Pooja,9,120,0,1080.0,243.34
+ORD1312,2024-11-04,11,Nov,Q4,East,Kolkata,Furniture,Chair,Ravi,9,4999,15,38242.35,14123.28
+ORD1313,2024-01-16,1,Jan,Q1,South,Chennai,Sports,Cricket Bat,Divya,7,2500,20,14000.0,2221.35
+ORD1314,2024-04-05,4,Apr,Q2,East,Patna,Clothing,Jacket,Nikhil,5,2499,20,9996.0,2996.25
+ORD1315,2024-03-17,3,Mar,Q1,North,Delhi,Sports,Cricket Bat,Karan,9,2500,15,19125.0,3178.03
+ORD1316,2024-10-20,10,Oct,Q4,North,Chandigarh,Sports,Yoga Mat,Pooja,9,800,10,6480.0,1690.28
+ORD1317,2024-07-07,7,Jul,Q3,Central,Raipur,Groceries,Rice,Karan,3,120,15,306.0,55.97
+ORD1318,2024-02-24,2,Feb,Q1,West,Pune,Groceries,Flour,Ravi,6,60,15,306.0,91.85
+ORD1319,2024-11-08,11,Nov,Q4,North,Delhi,Electronics,Mobile,Amit,6,25000,5,142500.0,29884.27
+ORD1320,2024-08-14,8,Aug,Q3,South,Chennai,Electronics,Smart TV,Karan,1,45000,10,40500.0,12259.15
+ORD1321,2024-01-08,1,Jan,Q1,Central,Indore,Electronics,Smart TV,Karan,6,45000,0,270000.0,42978.69
+ORD1322,2024-11-22,11,Nov,Q4,West,Mumbai,Clothing,Jacket,Karan,1,2499,5,2374.05,909.11
+ORD1323,2024-03-27,3,Mar,Q1,North,Chandigarh,Sports,Cricket Bat,Amit,1,2500,20,2000.0,553.71
+ORD1324,2024-01-08,1,Jan,Q1,North,Lucknow,Sports,Badminton Kit,Pooja,3,1800,10,4860.0,1241.52
+ORD1325,2024-10-07,10,Oct,Q4,West,Surat,Sports,Cycles,Karan,1,12000,20,9600.0,3729.68
+ORD1326,2024-07-17,7,Jul,Q3,Central,Indore,Electronics,Tablet,Pooja,7,35000,20,196000.0,58985.98
+ORD1327,2024-02-05,2,Feb,Q1,South,Bangalore,Clothing,Kurta,Pooja,1,1299,15,1104.15,199.03
+ORD1328,2024-09-07,9,Sep,Q3,West,Surat,Groceries,Rice,Amit,10,120,10,1080.0,273.42
+ORD1329,2024-03-22,3,Mar,Q1,Central,Bhopal,Clothing,Jeans,Ravi,10,1499,5,14240.5,2548.12
+ORD1330,2024-06-03,6,Jun,Q2,West,Ahmedabad,Groceries,Oil,Karan,2,250,20,400.0,113.4
+ORD1331,2024-10-05,10,Oct,Q4,South,Chennai,Electronics,Headphones,Ravi,1,5000,20,4000.0,723.0
+ORD1332,2024-02-04,2,Feb,Q1,North,Lucknow,Electronics,Laptop,Pooja,5,60000,10,270000.0,85925.25
+ORD1333,2024-03-28,3,Mar,Q1,North,Delhi,Clothing,Kurta,Sneha,2,1299,10,2338.2,689.34
+ORD1334,2024-12-01,12,Dec,Q4,North,Lucknow,Furniture,Table,Ravi,9,8999,15,68842.35,19375.9
+ORD1335,2024-08-01,8,Aug,Q3,South,Kochi,Groceries,Flour,Nikhil,4,60,20,192.0,45.4
+ORD1336,2024-03-11,3,Mar,Q1,West,Ahmedabad,Sports,Football,Sneha,2,1200,15,2040.0,502.8
+ORD1337,2024-08-02,8,Aug,Q3,East,Bhubaneswar,Furniture,Chair,Amit,6,4999,20,23995.2,8648.61
+ORD1338,2024-08-24,8,Aug,Q3,West,Pune,Electronics,Headphones,Amit,2,5000,20,8000.0,2210.91
+ORD1339,2024-11-10,11,Nov,Q4,East,Kolkata,Groceries,Dal,Ravi,6,180,10,972.0,241.89
+ORD1340,2024-05-10,5,May,Q2,East,Kolkata,Sports,Football,Karan,10,1200,20,9600.0,2339.53
+ORD1341,2024-11-15,11,Nov,Q4,East,Patna,Groceries,Dal,Sneha,9,180,0,1620.0,304.39
+ORD1342,2024-02-13,2,Feb,Q1,North,Delhi,Groceries,Flour,Karan,9,60,0,540.0,183.86
+ORD1343,2024-03-26,3,Mar,Q1,East,Patna,Furniture,Sofa,Priya,2,25000,20,40000.0,6576.48
+ORD1344,2024-01-28,1,Jan,Q1,West,Mumbai,Groceries,Oil,Nikhil,4,250,10,900.0,266.17
+ORD1345,2024-01-03,1,Jan,Q1,Central,Raipur,Sports,Football,Ravi,4,1200,10,4320.0,1598.74
+ORD1346,2024-08-28,8,Aug,Q3,North,Chandigarh,Clothing,Saree,Karan,7,2999,20,16794.4,6098.71
+ORD1347,2024-06-13,6,Jun,Q2,Central,Indore,Furniture,Sofa,Karan,2,25000,10,45000.0,11907.75
+ORD1348,2024-09-14,9,Sep,Q3,Central,Nagpur,Furniture,Bed,Karan,1,18000,15,15300.0,2426.81
+ORD1349,2024-04-06,4,Apr,Q2,North,Lucknow,Furniture,Table,Divya,4,8999,5,34196.2,9595.83
+ORD1350,2024-05-14,5,May,Q2,East,Patna,Electronics,Tablet,Priya,1,35000,10,31500.0,8315.84
+ORD1351,2024-01-17,1,Jan,Q1,West,Ahmedabad,Groceries,Flour,Ravi,9,60,15,459.0,166.04
+ORD1352,2024-06-22,6,Jun,Q2,East,Patna,Furniture,Sofa,Karan,7,25000,5,166250.0,54975.01
+ORD1353,2024-08-25,8,Aug,Q3,South,Bangalore,Sports,Yoga Mat,Priya,9,800,10,6480.0,2257.3
+ORD1354,2024-01-04,1,Jan,Q1,East,Patna,Clothing,Jeans,Amit,8,1499,10,10792.8,3869.61
+ORD1355,2024-12-09,12,Dec,Q4,North,Lucknow,Sports,Cycles,Divya,8,12000,20,76800.0,26229.43
+ORD1356,2024-03-08,3,Mar,Q1,West,Ahmedabad,Clothing,T-Shirt,Priya,4,799,10,2876.4,511.28
+ORD1357,2024-06-16,6,Jun,Q2,West,Mumbai,Sports,Football,Karan,3,1200,10,3240.0,1038.22
+ORD1358,2024-02-02,2,Feb,Q1,North,Lucknow,Clothing,Jeans,Sneha,6,1499,15,7644.9,2503.92
+ORD1359,2024-07-01,7,Jul,Q3,West,Pune,Furniture,Sofa,Pooja,7,25000,20,140000.0,40214.32
+ORD1360,2024-09-22,9,Sep,Q3,Central,Bhopal,Sports,Badminton Kit,Karan,3,1800,0,5400.0,1063.59
+ORD1361,2024-12-14,12,Dec,Q4,South,Bangalore,Groceries,Spices,Sneha,2,90,5,171.0,60.81
+ORD1362,2024-02-24,2,Feb,Q1,West,Mumbai,Furniture,Table,Sneha,7,8999,5,59843.35,18395.21
+ORD1363,2024-10-26,10,Oct,Q4,East,Kolkata,Groceries,Rice,Nikhil,9,120,0,1080.0,355.06
+ORD1364,2024-09-28,9,Sep,Q3,North,Lucknow,Clothing,T-Shirt,Pooja,5,799,15,3395.75,595.86
+ORD1365,2024-04-04,4,Apr,Q2,North,Lucknow,Furniture,Chair,Ravi,2,4999,15,8498.3,3202.16
+ORD1366,2024-03-05,3,Mar,Q1,East,Kolkata,Furniture,Chair,Pooja,8,4999,15,33993.2,6084.98
+ORD1367,2024-07-21,7,Jul,Q3,South,Chennai,Electronics,Headphones,Ravi,9,5000,5,42750.0,14033.18
+ORD1368,2024-09-09,9,Sep,Q3,Central,Bhopal,Electronics,Headphones,Ravi,1,5000,15,4250.0,749.45
+ORD1369,2024-06-16,6,Jun,Q2,East,Patna,Groceries,Flour,Priya,1,60,20,48.0,11.82
+ORD1370,2024-07-09,7,Jul,Q3,North,Lucknow,Clothing,Saree,Sneha,9,2999,15,22942.35,4508.3
+ORD1371,2024-06-11,6,Jun,Q2,Central,Bhopal,Groceries,Dal,Divya,9,180,0,1620.0,538.85
+ORD1372,2024-08-08,8,Aug,Q3,North,Chandigarh,Sports,Cycles,Karan,2,12000,0,24000.0,7509.84
+ORD1373,2024-08-22,8,Aug,Q3,South,Hyderabad,Groceries,Spices,Sneha,5,90,15,382.5,76.42
+ORD1374,2024-06-22,6,Jun,Q2,West,Mumbai,Groceries,Oil,Ravi,9,250,0,2250.0,627.67
+ORD1375,2024-06-17,6,Jun,Q2,West,Ahmedabad,Sports,Football,Pooja,5,1200,5,5700.0,1032.22
+ORD1376,2024-12-22,12,Dec,Q4,South,Hyderabad,Electronics,Tablet,Nikhil,6,35000,0,210000.0,45500.45
+ORD1377,2024-04-23,4,Apr,Q2,Central,Raipur,Electronics,Headphones,Priya,10,5000,0,50000.0,17174.89
+ORD1378,2024-10-27,10,Oct,Q4,North,Chandigarh,Groceries,Dal,Sneha,6,180,20,864.0,212.24
+ORD1379,2024-07-20,7,Jul,Q3,North,Jaipur,Sports,Cycles,Amit,1,12000,5,11400.0,3539.3
+ORD1380,2024-03-09,3,Mar,Q1,West,Surat,Furniture,Wardrobe,Sneha,7,22000,15,130900.0,37534.37
+ORD1381,2024-09-02,9,Sep,Q3,North,Lucknow,Electronics,Smart TV,Pooja,4,45000,10,162000.0,48733.32
+ORD1382,2024-08-09,8,Aug,Q3,Central,Raipur,Groceries,Spices,Priya,4,90,5,342.0,71.75
+ORD1383,2024-11-26,11,Nov,Q4,West,Pune,Furniture,Bed,Pooja,9,18000,0,162000.0,32231.24
+ORD1384,2024-05-08,5,May,Q2,South,Chennai,Clothing,T-Shirt,Priya,3,799,10,2157.3,666.58
+ORD1385,2024-09-15,9,Sep,Q3,West,Ahmedabad,Furniture,Chair,Amit,4,4999,15,16996.6,2807.11
+ORD1386,2024-09-11,9,Sep,Q3,South,Bangalore,Electronics,Mobile,Karan,4,25000,15,85000.0,13696.98
+ORD1387,2024-05-06,5,May,Q2,North,Jaipur,Furniture,Table,Nikhil,10,8999,20,71992.0,15742.92
+ORD1388,2024-08-12,8,Aug,Q3,South,Bangalore,Clothing,Jacket,Nikhil,3,2499,20,5997.6,2245.61
+ORD1389,2024-12-12,12,Dec,Q4,West,Mumbai,Electronics,Tablet,Karan,2,35000,10,63000.0,24579.87
+ORD1390,2024-11-05,11,Nov,Q4,West,Ahmedabad,Groceries,Oil,Priya,9,250,15,1912.5,495.81
+ORD1391,2024-03-27,3,Mar,Q1,East,Patna,Clothing,Jeans,Pooja,4,1499,15,5096.6,1216.87
+ORD1392,2024-07-08,7,Jul,Q3,North,Lucknow,Furniture,Wardrobe,Divya,2,22000,5,41800.0,7959.47
+ORD1393,2024-04-24,4,Apr,Q2,West,Ahmedabad,Electronics,Tablet,Nikhil,1,35000,10,31500.0,10738.19
+ORD1394,2024-05-28,5,May,Q2,Central,Nagpur,Groceries,Rice,Karan,10,120,15,1020.0,389.18
+ORD1395,2024-08-02,8,Aug,Q3,South,Hyderabad,Furniture,Wardrobe,Divya,10,22000,15,187000.0,52111.46
+ORD1396,2024-10-04,10,Oct,Q4,East,Bhubaneswar,Sports,Badminton Kit,Amit,3,1800,15,4590.0,1020.0
+ORD1397,2024-07-17,7,Jul,Q3,East,Bhubaneswar,Furniture,Chair,Divya,9,4999,20,35992.8,11116.77
+ORD1398,2024-10-14,10,Oct,Q4,West,Mumbai,Furniture,Sofa,Amit,7,25000,10,157500.0,48117.81
+ORD1399,2024-01-18,1,Jan,Q1,Central,Indore,Sports,Yoga Mat,Karan,2,800,15,1360.0,510.76
+ORD1400,2024-11-09,11,Nov,Q4,South,Chennai,Groceries,Spices,Nikhil,10,90,10,810.0,129.38
+ORD1401,2024-04-05,4,Apr,Q2,South,Chennai,Electronics,Mobile,Divya,9,25000,20,180000.0,59362.2
+ORD1402,2024-12-07,12,Dec,Q4,East,Kolkata,Furniture,Bed,Priya,3,18000,10,48600.0,18153.25
+ORD1403,2024-04-15,4,Apr,Q2,South,Kochi,Sports,Cycles,Pooja,4,12000,5,45600.0,13047.37
+ORD1404,2024-09-27,9,Sep,Q3,Central,Bhopal,Electronics,Tablet,Divya,7,35000,15,208250.0,34830.21
+ORD1405,2024-08-04,8,Aug,Q3,East,Kolkata,Electronics,Tablet,Nikhil,8,35000,10,252000.0,81497.94
+ORD1406,2024-08-20,8,Aug,Q3,South,Kochi,Furniture,Table,Amit,1,8999,20,7199.2,1845.21
+ORD1407,2024-06-06,6,Jun,Q2,Central,Raipur,Sports,Cricket Bat,Amit,9,2500,15,19125.0,3129.97
+ORD1408,2024-06-15,6,Jun,Q2,South,Kochi,Sports,Cycles,Sneha,3,12000,10,32400.0,6408.06
+ORD1409,2024-07-26,7,Jul,Q3,West,Pune,Furniture,Bed,Nikhil,9,18000,20,129600.0,29254.96
+ORD1410,2024-06-04,6,Jun,Q2,Central,Bhopal,Furniture,Sofa,Pooja,9,25000,10,202500.0,80233.46
+ORD1411,2024-10-27,10,Oct,Q4,Central,Nagpur,Sports,Cricket Bat,Divya,7,2500,5,16625.0,3611.86
+ORD1412,2024-04-16,4,Apr,Q2,North,Delhi,Furniture,Table,Pooja,9,8999,0,80991.0,18153.32
+ORD1413,2024-09-19,9,Sep,Q3,North,Lucknow,Sports,Cycles,Pooja,1,12000,0,12000.0,2907.84
+ORD1414,2024-07-25,7,Jul,Q3,North,Lucknow,Clothing,Saree,Pooja,1,2999,5,2849.05,622.57
+ORD1415,2024-04-21,4,Apr,Q2,East,Kolkata,Sports,Cricket Bat,Karan,6,2500,15,12750.0,4642.71
+ORD1416,2024-04-04,4,Apr,Q2,North,Chandigarh,Sports,Cricket Bat,Amit,3,2500,5,7125.0,1753.38
+ORD1417,2024-02-23,2,Feb,Q1,East,Patna,Groceries,Oil,Divya,10,250,0,2500.0,521.86
+ORD1418,2024-05-01,5,May,Q2,East,Kolkata,Furniture,Chair,Amit,1,4999,10,4499.1,1022.23
+ORD1419,2024-04-04,4,Apr,Q2,Central,Indore,Furniture,Sofa,Sneha,10,25000,0,250000.0,76564.32
+ORD1420,2024-02-16,2,Feb,Q1,South,Kochi,Furniture,Chair,Karan,8,4999,10,35992.8,14234.3
+ORD1421,2024-05-11,5,May,Q2,East,Bhubaneswar,Groceries,Spices,Amit,1,90,15,76.5,15.14
+ORD1422,2024-01-18,1,Jan,Q1,West,Mumbai,Electronics,Smart TV,Amit,5,45000,10,202500.0,52283.82
+ORD1423,2024-01-13,1,Jan,Q1,East,Bhubaneswar,Sports,Badminton Kit,Priya,7,1800,15,10710.0,3707.97
+ORD1424,2024-10-09,10,Oct,Q4,East,Guwahati,Sports,Yoga Mat,Karan,8,800,5,6080.0,2402.16
+ORD1425,2024-05-28,5,May,Q2,South,Bangalore,Sports,Football,Amit,2,1200,5,2280.0,572.05
+ORD1426,2024-01-12,1,Jan,Q1,Central,Nagpur,Clothing,Kurta,Amit,1,1299,10,1169.1,197.01
+ORD1427,2024-08-10,8,Aug,Q3,East,Bhubaneswar,Clothing,T-Shirt,Ravi,2,799,15,1358.3,437.98
+ORD1428,2024-11-09,11,Nov,Q4,South,Hyderabad,Furniture,Wardrobe,Nikhil,6,22000,15,112200.0,19412.48
+ORD1429,2024-02-22,2,Feb,Q1,West,Ahmedabad,Groceries,Oil,Nikhil,2,250,20,400.0,156.5
+ORD1430,2024-11-04,11,Nov,Q4,East,Bhubaneswar,Electronics,Laptop,Divya,6,60000,0,360000.0,76457.19
+ORD1431,2024-10-21,10,Oct,Q4,South,Chennai,Groceries,Rice,Ravi,10,120,0,1200.0,463.42
+ORD1432,2024-02-25,2,Feb,Q1,East,Guwahati,Sports,Badminton Kit,Divya,6,1800,15,9180.0,1492.87
+ORD1433,2024-04-19,4,Apr,Q2,North,Delhi,Sports,Yoga Mat,Nikhil,1,800,0,800.0,311.52
+ORD1434,2024-10-18,10,Oct,Q4,West,Mumbai,Sports,Football,Divya,6,1200,0,7200.0,2417.08
+ORD1435,2024-04-27,4,Apr,Q2,South,Hyderabad,Groceries,Oil,Karan,9,250,15,1912.5,632.77
+ORD1436,2024-10-18,10,Oct,Q4,South,Hyderabad,Groceries,Rice,Ravi,9,120,0,1080.0,354.79
+ORD1437,2024-02-08,2,Feb,Q1,North,Delhi,Groceries,Rice,Amit,5,120,10,540.0,128.91
+ORD1438,2024-02-06,2,Feb,Q1,South,Hyderabad,Clothing,T-Shirt,Ravi,2,799,5,1518.1,373.18
+ORD1439,2024-07-24,7,Jul,Q3,West,Ahmedabad,Sports,Badminton Kit,Priya,6,1800,0,10800.0,4286.68
+ORD1440,2024-09-07,9,Sep,Q3,East,Bhubaneswar,Clothing,T-Shirt,Amit,6,799,10,4314.6,937.19
+ORD1441,2024-05-02,5,May,Q2,West,Mumbai,Sports,Cricket Bat,Priya,8,2500,10,18000.0,5536.11
+ORD1442,2024-12-11,12,Dec,Q4,East,Patna,Groceries,Dal,Divya,4,180,5,684.0,262.7
+ORD1443,2024-04-22,4,Apr,Q2,West,Pune,Clothing,Saree,Priya,9,2999,20,21592.8,5952.22
+ORD1444,2024-06-18,6,Jun,Q2,Central,Raipur,Groceries,Spices,Nikhil,1,90,10,81.0,20.43
+ORD1445,2024-05-18,5,May,Q2,Central,Indore,Sports,Cycles,Amit,10,12000,15,102000.0,37783.11
+ORD1446,2024-01-04,1,Jan,Q1,Central,Raipur,Groceries,Oil,Ravi,4,250,20,800.0,304.91
+ORD1447,2024-08-25,8,Aug,Q3,East,Guwahati,Clothing,T-Shirt,Karan,10,799,15,6791.5,2424.76
+ORD1448,2024-01-21,1,Jan,Q1,Central,Indore,Clothing,T-Shirt,Priya,10,799,0,7990.0,3003.36
+ORD1449,2024-07-17,7,Jul,Q3,East,Kolkata,Furniture,Chair,Pooja,5,4999,5,23745.25,5608.52
+ORD1450,2024-04-15,4,Apr,Q2,East,Bhubaneswar,Electronics,Laptop,Karan,5,60000,20,240000.0,65362.59
+ORD1451,2024-02-22,2,Feb,Q1,Central,Bhopal,Sports,Football,Karan,6,1200,15,6120.0,1746.3
+ORD1452,2024-12-19,12,Dec,Q4,North,Jaipur,Furniture,Table,Ravi,10,8999,5,85490.5,17576.02
+ORD1453,2024-06-15,6,Jun,Q2,North,Jaipur,Groceries,Oil,Pooja,7,250,10,1575.0,531.32
+ORD1454,2024-03-10,3,Mar,Q1,East,Kolkata,Electronics,Laptop,Pooja,1,60000,10,54000.0,13660.17
+ORD1455,2024-06-01,6,Jun,Q2,South,Chennai,Sports,Football,Priya,3,1200,20,2880.0,886.62
+ORD1456,2024-01-07,1,Jan,Q1,Central,Indore,Electronics,Smart TV,Divya,7,45000,5,299250.0,53437.5
+ORD1457,2024-01-17,1,Jan,Q1,South,Chennai,Furniture,Table,Amit,7,8999,20,50394.4,15261.15
+ORD1458,2024-10-28,10,Oct,Q4,East,Kolkata,Furniture,Wardrobe,Ravi,5,22000,10,99000.0,36668.7
+ORD1459,2024-03-12,3,Mar,Q1,West,Mumbai,Electronics,Smart TV,Amit,6,45000,0,270000.0,63019.92
+ORD1460,2024-03-11,3,Mar,Q1,North,Lucknow,Sports,Badminton Kit,Ravi,2,1800,0,3600.0,608.13
+ORD1461,2024-09-08,9,Sep,Q3,North,Chandigarh,Clothing,Saree,Divya,2,2999,15,5098.3,1998.62
+ORD1462,2024-06-15,6,Jun,Q2,West,Surat,Electronics,Laptop,Karan,2,60000,5,114000.0,23699.13
+ORD1463,2024-06-14,6,Jun,Q2,Central,Raipur,Clothing,Jacket,Ravi,3,2499,10,6747.3,1640.49
+ORD1464,2024-10-11,10,Oct,Q4,East,Patna,Groceries,Oil,Sneha,4,250,10,900.0,344.09
+ORD1465,2024-08-15,8,Aug,Q3,East,Bhubaneswar,Electronics,Laptop,Sneha,2,60000,20,96000.0,15567.78
+ORD1466,2024-07-26,7,Jul,Q3,West,Surat,Electronics,Mobile,Priya,5,25000,20,100000.0,33962.55
+ORD1467,2024-09-28,9,Sep,Q3,East,Kolkata,Furniture,Bed,Karan,7,18000,15,107100.0,26527.47
+ORD1468,2024-10-05,10,Oct,Q4,South,Chennai,Furniture,Wardrobe,Divya,10,22000,15,187000.0,53371.97
+ORD1469,2024-09-08,9,Sep,Q3,South,Kochi,Clothing,Jacket,Karan,6,2499,10,13494.6,4047.61
+ORD1470,2024-02-18,2,Feb,Q1,South,Bangalore,Groceries,Dal,Sneha,1,180,5,171.0,42.01
+ORD1471,2024-03-06,3,Mar,Q1,South,Hyderabad,Clothing,T-Shirt,Divya,6,799,0,4794.0,1615.86
+ORD1472,2024-11-04,11,Nov,Q4,Central,Bhopal,Sports,Yoga Mat,Karan,10,800,20,6400.0,2278.03
+ORD1473,2024-10-05,10,Oct,Q4,South,Hyderabad,Sports,Yoga Mat,Divya,7,800,15,4760.0,1603.93
+ORD1474,2024-05-03,5,May,Q2,North,Chandigarh,Electronics,Smart TV,Nikhil,6,45000,20,216000.0,76913.65
+ORD1475,2024-07-08,7,Jul,Q3,West,Surat,Clothing,T-Shirt,Divya,8,799,20,5113.6,1619.44
+ORD1476,2024-04-12,4,Apr,Q2,South,Bangalore,Furniture,Chair,Pooja,6,4999,10,26994.6,6253.56
+ORD1477,2024-01-03,1,Jan,Q1,East,Guwahati,Sports,Football,Ravi,3,1200,20,2880.0,448.15
+ORD1478,2024-06-06,6,Jun,Q2,East,Kolkata,Furniture,Sofa,Pooja,5,25000,10,112500.0,17357.34
+ORD1479,2024-05-21,5,May,Q2,South,Chennai,Groceries,Oil,Priya,3,250,10,675.0,169.14
+ORD1480,2024-02-10,2,Feb,Q1,East,Kolkata,Groceries,Flour,Karan,3,60,10,162.0,29.91
+ORD1481,2024-05-27,5,May,Q2,North,Chandigarh,Furniture,Sofa,Pooja,2,25000,15,42500.0,11361.16
+ORD1482,2024-04-06,4,Apr,Q2,Central,Indore,Clothing,Kurta,Pooja,1,1299,5,1234.05,368.1
+ORD1483,2024-08-23,8,Aug,Q3,East,Guwahati,Furniture,Wardrobe,Priya,7,22000,5,146300.0,55778.6
+ORD1484,2024-06-10,6,Jun,Q2,West,Mumbai,Electronics,Tablet,Nikhil,9,35000,0,315000.0,90931.66
+ORD1485,2024-06-22,6,Jun,Q2,North,Chandigarh,Groceries,Rice,Nikhil,8,120,15,816.0,240.66
+ORD1486,2024-11-15,11,Nov,Q4,North,Delhi,Clothing,Kurta,Priya,1,1299,10,1169.1,420.34
+ORD1487,2024-02-05,2,Feb,Q1,West,Pune,Furniture,Bed,Divya,10,18000,20,144000.0,51616.51
+ORD1488,2024-06-20,6,Jun,Q2,South,Kochi,Clothing,Saree,Divya,8,2999,10,21592.8,3410.28
+ORD1489,2024-07-16,7,Jul,Q3,South,Bangalore,Electronics,Headphones,Sneha,7,5000,10,31500.0,11521.1
+ORD1490,2024-10-17,10,Oct,Q4,East,Kolkata,Electronics,Tablet,Ravi,4,35000,20,112000.0,34233.65
+ORD1491,2024-07-12,7,Jul,Q3,North,Chandigarh,Sports,Yoga Mat,Sneha,7,800,20,4480.0,1587.01
+ORD1492,2024-07-12,7,Jul,Q3,South,Bangalore,Sports,Badminton Kit,Pooja,2,1800,5,3420.0,656.74
+ORD1493,2024-04-03,4,Apr,Q2,East,Guwahati,Clothing,Jeans,Divya,4,1499,20,4796.8,1901.1
+ORD1494,2024-08-28,8,Aug,Q3,North,Chandigarh,Groceries,Oil,Pooja,8,250,20,1600.0,570.65
+ORD1495,2024-10-22,10,Oct,Q4,West,Mumbai,Groceries,Flour,Karan,4,60,20,192.0,71.92
+ORD1496,2024-08-14,8,Aug,Q3,South,Kochi,Clothing,Saree,Sneha,5,2999,5,14245.25,3246.81
+ORD1497,2024-09-23,9,Sep,Q3,West,Surat,Groceries,Rice,Amit,7,120,5,798.0,131.07
+ORD1498,2024-12-08,12,Dec,Q4,South,Chennai,Sports,Cricket Bat,Divya,2,2500,10,4500.0,1422.23
+ORD1499,2024-10-27,10,Oct,Q4,South,Hyderabad,Sports,Cricket Bat,Divya,9,2500,15,19125.0,5368.2
+ORD1500,2024-12-07,12,Dec,Q4,Central,Indore,Electronics,Headphones,Sneha,6,5000,10,27000.0,4839.83
