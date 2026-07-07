@@ -143,7 +143,7 @@ Key Insights:
 
 1. Clone this repository
 bash
-git clone https://github.com/yourusername/sales-dashboard-powerbi.git
+git clone https://github.com/harshi1006/sales-dashboard-powerbi.git
 
 
 2. Open Power BI Desktop
