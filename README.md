@@ -1,27 +1,36 @@
- 📊 India Sales Performance Dashboard — Power BI
+# 📊 India Sales Performance Dashboard — Power BI
 
- 📌 Project Overview
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![CSV](https://img.shields.io/badge/Data-CSV-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)
+
+## 📌 Project Overview
 
 An interactive 3-page Sales Performance Dashboard built in Power BI, analyzing 500 sales transactions across 5 regions, 8 salespersons, and 5 product categories in India.
 
- 🎯 Business Problem
+---
+
+## 🎯 Business Problem
 
 > Management had no visibility into sales performance across regions, categories, and salespersons. Decisions were being made on gut feeling rather than data.
 
-Before this dashboard:
+**Before this dashboard:**
 - ❌ Sales data scattered across Excel files
 - ❌ No way to track salesperson vs target
 - ❌ Regional comparison not possible
 - ❌ Monthly reports took 2 days manually
 
-After this dashboard:
+**After this dashboard:**
 - ✅ Real-time sales overview in one screen
 - ✅ Instant salesperson vs target comparison
 - ✅ Regional performance at a glance
 - ✅ Reports generated in 0 seconds
 
- 📁 Project Structure
+---
 
+## 📁 Project Structure
+
+```
 sales-dashboard-powerbi/
 │
 ├── 📁 data/
@@ -38,10 +47,13 @@ sales-dashboard-powerbi/
 │   └── page3_regional.png       # Regional Analysis
 │
 └── 📄 README.md
+```
 
- 
- 🗄️ Data Model
+---
 
+## 🗄️ Data Model
+
+```
 ┌─────────────────┐         ┌──────────────────────────┐
 │   customers     │         │    sales_transactions    │
 │─────────────────│         │──────────────────────────│
@@ -59,12 +71,13 @@ sales-dashboard-powerbi/
 │ month           │
 │ target          │
 └─────────────────┘
+```
 
+---
 
+## 📐 DAX Measures
 
- 📐 DAX Measures
-
-
+```dax
 Total Revenue    = SUM(sales_transactions[revenue])
 Total Profit     = SUM(sales_transactions[profit])
 Total Orders     = COUNT(sales_transactions[order_id])
@@ -72,21 +85,23 @@ Avg Order Value  = DIVIDE([Total Revenue], [Total Orders])
 Profit Margin %  = DIVIDE([Total Profit], [Total Revenue]) * 100
 Total Target     = SUM(sales_targets[target])
 Achievement %    = DIVIDE([Total Revenue], [Total Target]) * 100
+```
 
+---
 
- 📊 Dashboard Pages
+## 📊 Dashboard Pages
 
- Page 1 — Executive Summary
+### Page 1 — Executive Summary
+![Executive Summary](screenshots/page1_executive.png)
 
-
-Visuals:
+**Visuals:**
 - 4 KPI Cards — Revenue, Profit, Orders, Avg Order Value
 - Line Chart — Monthly Revenue Trend
 - Bar Chart — Revenue by Category
 - Bar Chart — Revenue by Region
 - Bar Chart — Profit % by Category
 
-Key Insights:
+**Key Insights:**
 - 💰 Total Revenue = ₹27.58M
 - 📈 Total Profit = ₹7.62M
 - 📦 Total Orders = 500
@@ -94,57 +109,61 @@ Key Insights:
 - 🗺️ Top Region = East
 - 📅 Peak Month = July
 
+---
 
+### Page 2 — Sales Performance
+![Sales Performance](screenshots/page2_sales.png)
 
- Page 2 — Sales Performance
-
-Visuals:
+**Visuals:**
 - Combo Chart — Revenue vs Target by Salesperson
 - Bar Chart — Top 5 Products by Revenue
 - Column Chart — Revenue by Quarter
 - Table — Salesperson Summary with Achievement %
 
-Key Insights:
+**Key Insights:**
 - 🏆 Top Salesperson = Amit (₹44.41L, 272.73% of target)
 - 📦 Top Product = Smart TV (₹5M+)
 - 📅 Best Quarter = Q3
 - 💹 All salespersons exceeded targets (150%+)
 - ⚠️ Targets may need revision upward for 2025
 
+---
 
+### Page 3 — Regional Analysis
+![Regional Analysis](screenshots/page3_regional.png)
 
- Page 3 — Regional Analysis
-
-Visuals:
+**Visuals:**
 - Matrix — Revenue by Region × Category
 - Bar Chart — Top 10 Cities by Revenue
 - Donut Chart — Customer Segment Distribution
 - Slicers — Region, Category, Quarter (interactive!)
 
-Key Insights:
+**Key Insights:**
 - 🏙️ Top City = Kolkata
 - 🗺️ Top Region = East (₹71.89L)
 - 👥 Largest Segment = Retail (53.5%)
 - 📦 Electronics dominates all regions
 - 🔍 Central region has lowest revenue — opportunity!
 
+---
 
- 🛠️ Tools Used
+## 🛠️ Tools Used
 
-|       Tool       |             Purpose            |
-|------------------|--------------------------------|
-| Power BI Desktop | Dashboard building             |
-| Power Query      | Data cleaning & transformation |
-| DAX              | Custom calculations & measures |
-| CSV Files        | Data source                    |
+| Tool | Purpose |
+|------|---------|
+| Power BI Desktop | Dashboard building |
+| Power Query | Data cleaning & transformation |
+| DAX | Custom calculations & measures |
+| CSV Files | Data source |
 
+---
 
- 🚀 How to Use
+## 🚀 How to Use
 
 1. Clone this repository
-bash
-git clone https://github.com/harshi1006/sales-dashboard-powerbi.git
-
+```bash
+git clone https://github.com/yourusername/sales-dashboard-powerbi.git
+```
 
 2. Open Power BI Desktop
 
@@ -153,17 +172,31 @@ git clone https://github.com/harshi1006/sales-dashboard-powerbi.git
 4. If data doesn't load → click **Transform Data**
    → Update file paths to your local `/data/` folder
 
-5. Click Refresh — dashboard loads with full data!
+5. Click **Refresh** — dashboard loads with full data!
 
+---
 
- 💡 Key Business Recommendations
+## 💡 Key Business Recommendations
 
 Based on the analysis:
 
-1. Double down on Electronics — highest revenue category across all regions
-2. Focus on Central region — lowest revenue, highest growth opportunity
-3. Revise 2025 targets upward — all salespersons exceeded 150% of target
-4. Invest in Retail segment — 53.5% of customers, largest opportunity
-5. Q3 promotions work — highest revenue quarter, replicate strategy
+1. **Double down on Electronics** — highest revenue category across all regions
+2. **Focus on Central region** — lowest revenue, highest growth opportunity
+3. **Revise 2025 targets upward** — all salespersons exceeded 150% of target
+4. **Invest in Retail segment** — 53.5% of customers, largest opportunity
+5. **Q3 promotions work** — highest revenue quarter, replicate strategy
 
+---
 
+## 👩‍💻 Author
+
+**Harshii**
+- 🔗 GitHub: [harshi1006](https://github.com/harshi1006)
+- 💼 Role: Data Analyst | TCS
+- 📍 Indore, India
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
